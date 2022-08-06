@@ -5,7 +5,8 @@
 - 📫 How to reach me:  discord ID: 761367508824883220 (use a lookup tool)
 
 I have autism and ADHD, and I prefer tone indicators to be used around me.
-I use endeavourOS.
+
+I use Linux Mint.
 
 
 
