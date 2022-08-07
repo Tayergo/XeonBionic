@@ -6,7 +6,7 @@
 
 I have autism and ADHD, and I prefer tone indicators to be used around me.
 
-I use Linux Mint.
+I use windows 10, and endeavourOS...
 
 
 
