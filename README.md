@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @XeonBionic
 - 👀 I’m interested in technology in general
-- 🌱 I’m currently learning python, HTML + CSS, and bash scripting.
+- 🌱 I’m currently learning python, HTML + CSS, and lua...
 - 💞️ I don't think my skills are to the point where I'd be useful
 - 📫 How to reach me:  discord ID: 761367508824883220 (use a lookup tool)
 
-I have autism and ADHD, and I prefer tone indicators to be used around me.
+I am autistic, and I have ADHD, please use tone indicators around me.
 
-I use windows 10, and endeavourOS...
+I use Windows 11.
 
 
 
