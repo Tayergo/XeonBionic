@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @XeonBionic
+- 👋 Hi, I’m Tayergo.
 - 👀 I’m interested in technology in general
-- 🌱 I’m currently learning python, HTML + CSS, and lua...
 - 💞️ I don't think my skills are to the point where I'd be useful
-- 📫 How to reach me:  discord ID: 761367508824883220 (use a lookup tool)
+- 📫 How to reach me: ask me for my discord.
 
 I am autistic, and I have ADHD, please use tone indicators around me.
 
