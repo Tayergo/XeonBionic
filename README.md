@@ -6,7 +6,7 @@
 
 I am autistic, and I have ADHD, please use tone indicators around me.
 
-I use Windows 11.
+I use EndeavourOS
 
 
 
